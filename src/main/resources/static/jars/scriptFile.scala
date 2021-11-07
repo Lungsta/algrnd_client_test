@@ -1,0 +1,1 @@
+C:\Users\user\IdeaProjects\Masters\algrnd_stateful_contracts\src\main\resources\static
